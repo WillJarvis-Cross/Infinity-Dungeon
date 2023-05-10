@@ -1,0 +1,253 @@
+Character 1 
+1
+ATT+3
+DEF+2
+SPE+4
+HP+9
+Battling Ray
+2 
+ATT+4
+DEF+1
+SPE+5
+HP+7
+3
+ATT+2
+DEF+2
+SPE+3
+HP+6
+Heat Burst
+4
+ATT+3
+DEF+1
+SPE+2
+HP+7
+5
+ATT+4
+DEF+2
+SPE+3
+HP+3
+Flashing Axe
+6
+ATT+5
+DEF+3
+SPE+5
+HP+6
+Chasing Program
+7
+ATT+5
+DEF+2
+SPE+6
+HP+8
+8
+ATT+3
+DEF+2
+SPE+3
+HP+2
+Mutating Engine
+ 
+9
+ATT+4
+DEF+3
+SPE+3
+HP+9
+10
+ATT+3
+DEF+2
+SPE+4
+HP+10
+Tempest Rage
+11
+ATT+4
+DEF+3
+SPE+5
+HP+4
+12
+ATT+5
+DEF+4
+SPE+4
+HP+6
+13
+ATT+3
+DEF+2
+SPE+3
+HP+4
+Wrestler Deception
+14
+ATT+5
+DEF+4
+SPE+3
+HP+6
+15
+ATT+4
+DEF+3
+SPE+6
+HP+8
+Trapping Lightning
+ 
+Character 2
+1
+ATT+2
+DEF+4
+SPE+3
+HP+7
+Battling Ray
+2
+ATT+4
+DEF+5
+SPE+1
+HP+8
+3
+ATT+3
+DEF+3
+SPE+1
+HP+5
+Gravel Submerge
+4
+ATT+2
+DEF+4
+SPE+0
+HP+10
+5
+ATT+4
+DEF+4
+SPE+1
+HP+7
+Verdant Warping
+6
+ATT+3
+DEF+3
+SPE+2
+HP+4
+Flashing Axe
+7
+ATT+4
+DEF+3
+SPE+0
+HP+6
+Execution Axe
+8
+ATT+3
+DEF+5
+SPE+2
+HP+5
+10
+ATT+3
+DEF+3
+SPE+0
+HP+10
+Twirling Domination
+11
+ATT+3
+DEF+3
+SPE+1
+HP+8
+12
+ATT+4
+DEF+4
+SPE+1
+HP+7
+Mutalating Engine
+13
+ATT+3
+DEF+2
+SPE+2
+HP+6
+Polluting Slice
+14
+ATT+3
+DEF+4
+SPE+0
+HP+9
+15
+ATT+4
+DEF+4
+SPE+1
+HP+8
+Judgement
+ 
+Character 3
+1
+ATT+2
+DEF+5
+SPE+4
+HP+7
+2
+ATT+1
+DEF+4
+SPE+2
+HP+8
+Psychic Influence
+3
+ATT+3
+DEF+5
+SPE+3
+HP+10
+4
+ATT+2
+DEF+5
+SPE+4
+HP+9
+Radiant Control
+5
+ATT+3
+DEF+5
+SPE+4
+HP+8
+Strata Illumination
+6
+ATT+1
+DEF+3
+SPE+1
+HP+11
+7
+ATT+2
+DEF+6
+SPE+1
+HP+9
+Polluting Slice
+8
+ATT+2
+DEF+3
+SPE+2
+HP+7
+Judgement
+9
+ATT+3
+DEF+4
+SPE+1
+HP+9
+Charm Ward
+10
+ATT+4
+DEF+5
+SPE+4
+HP+7
+Forest's Breath
+11
+ATT+3
+DEF+4
+SPE+4
+HP+7
+Pixie's Wish
+12
+ATT+4
+DEF+4
+SPE+2
+HP+6
+13
+ATT+4
+DEF+5
+SPE+3
+HP+8
+Tempest Rage
+14
+ATT+4
+DEF+4
+SPE+3
+HP+8
+15
+ATT+2
+DEF+5
+SPE+3
+HP+10
+Distant Hoax

@@ -1,0 +1,9 @@
+The keys w,a,s, and d are used to move the player
+
+w moves the player up
+a moves the player left
+s moves the player down
+d moves the player right
+
+
+Press the space bar to swing your sword

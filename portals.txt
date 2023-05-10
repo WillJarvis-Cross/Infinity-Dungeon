@@ -1,0 +1,1 @@
+(252, 93, 25, 255):rooms/shop.png:rooms/shopmask.png:96:-64:(0,0,0):rooms/house.png:
